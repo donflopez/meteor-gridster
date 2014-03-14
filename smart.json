@@ -1,0 +1,9 @@
+{
+  "name": "Gridster.js for Meteor",
+  "description": "Intuitive draggable layouts",
+  "homepage": "https://github.com/donflopez/meteor-gridster",
+  "author": "Francisco López<donflopez@gmail.com> (http://about.me/donflopez)",
+  "version": "0.5.1",
+  "git": "https://github.com/donflopez/meteor-gridster.git",
+  "packages": {}
+}
